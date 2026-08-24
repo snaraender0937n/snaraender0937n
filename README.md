@@ -1,16 +1,27 @@
-## Hi there 👋
+# Naraender
 
-<!--
-**snaraender0937n/snaraender0937n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Student | Embedded Systems | Robotics | AI
 
-Here are some ideas to get you started:
+## 🤖 Robotics & Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- RC-Car-Controller
+- Arduino-Radar-System
+- Automatic-Plant-Watering-System
+- temperature-indication-system
+- Upcounter-7segment-project
+- Controller-PC-Mobile
+- smart-motor-control-system
+
+## ⚡ Electronics, Power & PCB Design
+
+- linear-regulator-pcb-7805-7812-7912
+- Buck_Converter_36V_to_18V
+- Function_Generator_OpAmp_741
+- Kicad-Hardware-Design
+- Kicad-Hardware-SMD
+- Kicad-Hardware-USB
+
+## 🧠 AI & Software
+
+- Offline-RAG-Chatbot-LangGraph
+- Signals-Systems-Audio-Signal-Processing
