@@ -29,7 +29,7 @@ automation, and hardware-software integration.**
 - [Automatic Plant Watering System](https://github.com/Naraender-Robotics/Automatic-Plant-Watering-System)
 - [Temperature Indication System](https://github.com/Naraender-Robotics/temperature-indication-system)
 - [7-Segment Up Counter](https://github.com/Naraender-Robotics/Upcounter-7segment-project)
-- [Controller — PC & Mobile](https://github.com/Naraender-Robotics/Controller-PC-Mobile)
+- [Controller — PC & Mobile](https://github.com/Naraender-Robotics/Controller-PC-Moblie)
 - [Smart Motor Control System](https://github.com/Naraender-Robotics/smart-motor-control-system)
 
 ---
