@@ -1,8 +1,14 @@
-# Naraender
+# NARAENDER S.
 
-### Engineering Student | Embedded Systems | Robotics | AI
+### Electrical & Electronics Engineering | Embedded Systems | Robotics | AI
 
-I build projects across **embedded systems, robotics, electronics, PCB design, AI, and software development**.
+I am an Electrical & Electronics Engineering student interested in building
+practical systems across **embedded systems, robotics, electronics,
+industrial automation, PCB design, AI, and software development**.
+
+My work combines **hardware and software** — from microcontroller-based
+robotics and IoT systems to PCB and power-electronics projects, industrial
+automation, signal processing, and AI applications.
 
 ---
 
@@ -10,67 +16,110 @@ I build projects across **embedded systems, robotics, electronics, PCB design, A
 
 ### 🤖 Robotics & Embedded Systems
 
-**[Naraender-Robotics →](https://github.com/Naraender-Robotics)**
+[**Naraender-Robotics →**](https://github.com/Naraender-Robotics)
 
-Projects involving microcontrollers, robotics, sensors, motor control, automation, and embedded systems.
+A collection of embedded and robotics projects involving
+**ESP32, Arduino, sensors, motor control, wireless communication,
+automation, and hardware-software integration.**
 
-**Projects include:**
-- [RC-Car-Controller](https://github.com/Naraender-Robotics/RC-Car-Controller)
-- [Arduino-Radar-System](https://github.com/Naraender-Robotics/Arduino-Radar-System)
-- [Automatic-Plant-Watering-System](https://github.com/Naraender-Robotics/Automatic-Plant-Watering-System)
+**Projects:**
+
+- [RC Car Controller](https://github.com/Naraender-Robotics/RC-Car-Controller)
+- [Arduino Radar System](https://github.com/Naraender-Robotics/Arduino-Radar-System)
+- [Automatic Plant Watering System](https://github.com/Naraender-Robotics/Automatic-Plant-Watering-System)
 - [Temperature Indication System](https://github.com/Naraender-Robotics/temperature-indication-system)
-- [Upcounter 7-Segment Project](https://github.com/Naraender-Robotics/Upcounter-7segment-project)
-- [Controller PC Mobile](https://github.com/Naraender-Robotics/Controller-PC-Mobile)
+- [7-Segment Up Counter](https://github.com/Naraender-Robotics/Upcounter-7segment-project)
+- [Controller — PC & Mobile](https://github.com/Naraender-Robotics/Controller-PC-Mobile)
 - [Smart Motor Control System](https://github.com/Naraender-Robotics/smart-motor-control-system)
 
 ---
 
 ### ⚡ Electronics, Power & PCB Design
 
-**[Naraender-Hardware →](https://github.com/Naraender-Hardware)**
+[**Naraender-Hardware →**](https://github.com/Naraender-Hardware)
 
-Projects focused on electronics, power electronics, circuit design, PCB development, and KiCad.
+Hardware projects covering **analog and digital electronics,
+power electronics, circuit design, PCB development, and KiCad.**
 
-**Projects include:**
+**Projects:**
+
 - [Linear Regulator PCB — 7805 / 7812 / 7912](https://github.com/Naraender-Hardware/linear-regulator-pcb-7805-7812-7912)
-- [Buck Converter — 36V to 18V](https://github.com/Naraender-Hardware/Buck_Converter_36V_to_18V)
-- [Function Generator — Op-Amp 741](https://github.com/Naraender-Hardware/Function_Generator_OpAmp_741)
+- [36V → 18V Buck Converter](https://github.com/Naraender-Hardware/Buck_Converter_36V_to_18V)
+- [Op-Amp 741 Function Generator](https://github.com/Naraender-Hardware/Function_Generator_OpAmp_741)
 - [KiCad Hardware Design](https://github.com/Naraender-Hardware/Kicad-Hardware-Design)
 - [KiCad SMD Hardware](https://github.com/Naraender-Hardware/Kicad-Hardware-SMD)
 - [KiCad USB Hardware](https://github.com/Naraender-Hardware/Kicad-Hardware-USB)
 
 ---
 
-### 🧠 AI & Software
+### 🧠 AI, Software & Signal Processing
 
-**[Naraender-AI →](https://github.com/Naraender-AI)**
+[**Naraender-AI →**](https://github.com/Naraender-AI)
 
-Projects involving artificial intelligence, Python, software development, signal processing, and intelligent applications.
+Projects spanning **Python development, AI applications,
+retrieval-augmented generation, LangGraph, and signal processing.**
 
-**Projects include:**
+**Projects:**
+
 - [Offline RAG Chatbot — LangGraph](https://github.com/Naraender-AI/Offline-RAG-Chatbot-LangGraph)
 - [Signals & Systems — Audio Signal Processing](https://github.com/Naraender-AI/Signals-Systems-Audio-Signal-Processing)
-- [LIFE_SYSTEM](https://github.com/Naraender-AI/LIFE_SYSTEM)
+- [LIFE SYSTEM](https://github.com/Naraender-AI/LIFE_SYSTEM)
 
 ---
 
 ## 🛠️ Technical Interests
 
-- **Embedded Systems:** ESP32, Arduino, Raspberry Pi, Microcontrollers
-- **Robotics:** Motor Control, Sensors, Automation, BLE
-- **Electronics:** Analog & Digital Electronics, Power Electronics
-- **PCB Design:** KiCad, Schematic Design, PCB Layout
-- **Programming:** C/C++, Python, Java
-- **AI & Software:** RAG, LangGraph, LLM Applications, Signal Processing
-- **Cloud & Tools:** AWS, Git, GitHub
+### Programming
+**Python · C · C++ · Java · MATLAB · HTML · CSS · JavaScript**
+
+### Embedded Systems & IoT
+**ESP32 · Arduino · Raspberry Pi · STM32 · 8051 · GPIO · Sensors · BLE**
+
+### Robotics & Automation
+**Motor Control · Sensors · IoT · PLC · Ladder Logic · HMI · Industrial Automation**
+
+### Electronics & Hardware
+**Analog Electronics · Digital Electronics · Power Electronics · Circuit Design**
+
+### PCB & Hardware Design
+**KiCad · Schematic Design · PCB Layout · SMD Design**
+
+### AI & Software
+**RAG · LangGraph · LLM Applications · Signal Processing · Audio Processing**
+
+### Development Tools
+**Git · GitHub · Wokwi · Keil · STM32CubeIDE · Mitsubishi GX Works3 · GT Designer3**
 
 ---
 
 ## 💼 Experience
 
-**TNEB Internship**
+### TANGEDCO / TANTRANSCO
+**Electrical Engineering Internship · May–June 2026**
 
-Industrial exposure and hands-on experience in electrical engineering and power systems.
+Industrial exposure to electrical power systems, substations,
+SCADA, protection systems, transformers, CT/PTs, circuit breakers,
+busbars, and protection relays.
+
+### Ultramax Hydrojet Pvt. Ltd.
+**Engineering Internship · 2026**
+
+Hands-on exposure to an industrial engineering and manufacturing
+environment.
+
+---
+
+## 🎓 Education
+
+### Vellore Institute of Technology (VIT), Chennai
+**B.Tech — Electrical & Electronics Engineering**
+
+2024 – Present · **CGPA: 9.15**
+
+### Indian Institute of Technology Madras
+**BS — Electronics Systems**
+
+**CGPA: 7.92**
 
 ---
 
@@ -78,19 +127,20 @@ Industrial exposure and hands-on experience in electrical engineering and power 
 
 | Area | Organization |
 |---|---|
-| 🤖 Robotics & Embedded | [Naraender-Robotics](https://github.com/Naraender-Robotics) |
-| ⚡ Electronics & Hardware | [Naraender-Hardware](https://github.com/Naraender-Hardware) |
-| 🧠 AI & Software | [Naraender-AI](https://github.com/Naraender-AI) |
+| 🤖 Robotics & Embedded Systems | [Naraender-Robotics →](https://github.com/Naraender-Robotics) |
+| ⚡ Electronics, Power & PCB | [Naraender-Hardware →](https://github.com/Naraender-Hardware) |
+| 🧠 AI & Software | [Naraender-AI →](https://github.com/Naraender-AI) |
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect
 
-- [GitHub](https://github.com/snaraender0937n)
-- [LinkedIn](#)
-- [Portfolio](#)
-- [Resume](#)
+[**GitHub**](https://github.com/snaraender0937n) ·
+[**LinkedIn**](https://www.linkedin.com/in/snaraender0937n/) ·
+[**Portfolio**](https://snaraender0937n.github.io/naraender-portfolio/)
+
+📧 **snaraender@gmail.com**
 
 ---
 
-> **Building, learning, and experimenting across hardware and software.**
+> **Building practical systems across hardware and software.**
