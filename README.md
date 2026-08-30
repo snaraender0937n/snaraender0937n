@@ -56,14 +56,16 @@ power electronics, circuit design, PCB development, and KiCad.**
 
 [**Naraender-AI →**](https://github.com/Naraender-AI)
 
-Projects spanning **Python development, AI applications,
-retrieval-augmented generation, LangGraph, and signal processing.**
+Projects spanning **AI applications, software development,
+retrieval-augmented generation, LangGraph, signal processing,
+and productivity systems.**
 
 **Projects:**
 
 - [Offline RAG Chatbot — LangGraph](https://github.com/Naraender-AI/Offline-RAG-Chatbot-LangGraph)
 - [Signals & Systems — Audio Signal Processing](https://github.com/Naraender-AI/Signals-Systems-Audio-Signal-Processing)
 - [LIFE SYSTEM](https://github.com/Naraender-AI/LIFE_SYSTEM)
+- [MY PROGRESS — Productivity & Progress Tracking App](https://github.com/Naraender-AI/my-progress-app)
 
 ---
 
