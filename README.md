@@ -8,36 +8,199 @@ My work spans microcontrollers, sensors, robotics, industrial systems, intellige
 
 ---
 
-## 🚀 Latest Projects
-
 ### 🧠 AI & Intelligent Systems — [Naraender-AI](https://github.com/Naraender-AI)
 
-- [**Adaptive Fleet Health Monitoring**](https://github.com/Naraender-AI/Adaptive-Fleet-Health-Monitoring) — Distributed fleet-health monitoring with C/C++ edge agents, MQTT telemetry, adaptive anomaly detection, concurrent session coordination and FFT-based vibration analysis.
-- [**FraudGauge**](https://github.com/Naraender-AI/FraudGauge) — AI-powered fraud detection and multi-account abuse prevention for suspicious signups, device reuse, automation and behavioral anomalies.
-- [**VECTOR**](https://github.com/Naraender-AI/VECTOR) — Futuristic Student Operating System with an integrated educational city-building game for learning, progression and competition.
-- [**Offline RAG Chatbot — LangGraph**](https://github.com/Naraender-AI/Offline-RAG-Chatbot-LangGraph)
-- [**Signals & Systems — Audio Signal Processing**](https://github.com/Naraender-AI/Signals-Systems-Audio-Signal-Processing)
-- [**LIFE SYSTEM**](https://github.com/Naraender-AI/LIFE_SYSTEM)
-- [**MY PROGRESS**](https://github.com/Naraender-AI/my-progress-app)
+<details>
+<summary><strong>Adaptive Fleet Health Monitoring</strong></summary>
+
+Distributed fleet-health monitoring system with C/C++ edge agents, MQTT telemetry, adaptive anomaly detection, concurrent session coordination, and FFT-based vibration analysis.
+
+**Tech:** C · C++ · MQTT · TypeScript · Prisma · PostgreSQL · Python · FastAPI · FFT
+
+[View Repository](https://github.com/Naraender-AI/Adaptive-Fleet-Health-Monitoring)
+
+</details>
+
+<details>
+<summary><strong>FraudGauge</strong></summary>
+
+AI-powered fraud detection and multi-account abuse prevention system for suspicious signups, device reuse, automation, and behavioral anomalies.
+
+**Tech:** Python · Flask · React · Scikit-learn · SQLite · Machine Learning
+
+[View Repository](https://github.com/Naraender-AI/FraudGauge)
+
+</details>
+
+<details>
+<summary><strong>VECTOR</strong></summary>
+
+Futuristic Student Operating System with an integrated educational city-building game for learning, progression, and competition.
+
+**Tech:** HTML · CSS · JavaScript · Educational Game · Gamification
+
+[View Repository](https://github.com/Naraender-AI/VECTOR)
+
+</details>
+
+<details>
+<summary><strong>Offline RAG Chatbot — LangGraph</strong></summary>
+
+Offline retrieval-augmented generation application built around LangGraph.
+
+[View Repository](https://github.com/Naraender-AI/Offline-RAG-Chatbot-LangGraph)
+
+</details>
+
+<details>
+<summary><strong>Signals & Systems — Audio Signal Processing</strong></summary>
+
+Digital signal-processing work covering audio signals, filtering, DFT/FFT and related MATLAB implementations.
+
+[View Repository](https://github.com/Naraender-AI/Signals-Systems-Audio-Signal-Processing)
+
+</details>
+
+<details>
+<summary><strong>LIFE SYSTEM</strong></summary>
+
+Personal productivity and life-management system.
+
+[View Repository](https://github.com/Naraender-AI/LIFE_SYSTEM)
+
+</details>
+
+<details>
+<summary><strong>MY PROGRESS</strong></summary>
+
+Personal strength and progress tracking application.
+
+[View Repository](https://github.com/Naraender-AI/my-progress-app)
+
+</details>
 
 ### ⚡ Hardware & Embedded — [Naraender-Hardware](https://github.com/Naraender-Hardware)
 
-- [**VitalEdge**](https://github.com/Naraender-Hardware/VitalEdge) — Embedded soldier health and environmental monitoring system with real-time telemetry, GPS, emergency SOS and hardware-integrated monitoring.
-- [Linear Regulator PCB](https://github.com/Naraender-Hardware/linear-regulator-pcb-7805-7812-7912)
-- [36V → 18V Buck Converter](https://github.com/Naraender-Hardware/Buck_Converter_36V_to_18V)
-- [Op-Amp 741 Function Generator](https://github.com/Naraender-Hardware/Function_Generator_OpAmp_741)
-- [KiCad Hardware Design](https://github.com/Naraender-Hardware/Kicad-Hardware-Design)
-- [KiCad SMD Hardware](https://github.com/Naraender-Hardware/Kicad-Hardware-SMD)
-- [KiCad USB Hardware](https://github.com/Naraender-Hardware/Kicad-Hardware-USB)
+<details>
+<summary><strong>VitalEdge</strong></summary>
+
+Embedded health and environmental monitoring system with real-time telemetry, GPS, emergency SOS, and hardware-integrated monitoring.
+
+**Tech:** ESP32 · Sensors · GNSS · Telemetry · Embedded Systems
+
+[View Repository](https://github.com/Naraender-Hardware/VitalEdge)
+
+</details>
+
+<details>
+<summary><strong>Linear Regulator PCB</strong></summary>
+
+Linear regulator PCB design using the 7805, 7812 and 7912 regulator family.
+
+[View Repository](https://github.com/Naraender-Hardware/linear-regulator-pcb-7805-7812-7912)
+
+</details>
+
+<details>
+<summary><strong>36V → 18V Buck Converter</strong></summary>
+
+DC-DC buck converter hardware design for 36V to 18V conversion.
+
+[View Repository](https://github.com/Naraender-Hardware/Buck_Converter_36V_to_18V)
+
+</details>
+
+<details>
+<summary><strong>Op-Amp 741 Function Generator</strong></summary>
+
+Function generator project based on the 741 operational amplifier.
+
+[View Repository](https://github.com/Naraender-Hardware/Function_Generator_OpAmp_741)
+
+</details>
+
+<details>
+<summary><strong>KiCad Hardware Design</strong></summary>
+
+PCB and electronic hardware designs created using KiCad.
+
+[View Repository](https://github.com/Naraender-Hardware/Kicad-Hardware-Design)
+
+</details>
+
+<details>
+<summary><strong>KiCad SMD Hardware</strong></summary>
+
+SMD-focused PCB and hardware design work using KiCad.
+
+[View Repository](https://github.com/Naraender-Hardware/Kicad-Hardware-SMD)
+
+</details>
+
+<details>
+<summary><strong>KiCad USB Hardware</strong></summary>
+
+USB-oriented hardware and PCB design work using KiCad.
+
+[View Repository](https://github.com/Naraender-Hardware/Kicad-Hardware-USB)
+
+</details>
 
 ### 🤖 Robotics — [Naraender-Robotics](https://github.com/Naraender-Robotics)
 
-- [RC Car Controller](https://github.com/Naraender-Robotics/RC-Car-Controller)
-- [Arduino Radar System](https://github.com/Naraender-Robotics/Arduino-Radar-System)
-- [Automatic Plant Watering System](https://github.com/Naraender-Robotics/Automatic-Plant-Watering-System)
-- [Temperature Indication System](https://github.com/Naraender-Robotics/temperature-indication-system)
-- [7-Segment Up Counter](https://github.com/Naraender-Robotics/Upcounter-7segment-project)
-- [Smart Motor Control System](https://github.com/Naraender-Robotics/smart-motor-control-system)
+<details>
+<summary><strong>RC Car Controller</strong></summary>
+
+Remote-controlled car and embedded motor-control project.
+
+[View Repository](https://github.com/Naraender-Robotics/RC-Car-Controller)
+
+</details>
+
+<details>
+<summary><strong>Arduino Radar System</strong></summary>
+
+Arduino-based radar sensing and visualization system.
+
+[View Repository](https://github.com/Naraender-Robotics/Arduino-Radar-System)
+
+</details>
+
+<details>
+<summary><strong>Automatic Plant Watering System</strong></summary>
+
+Automated plant watering system using sensors and embedded control.
+
+[View Repository](https://github.com/Naraender-Robotics/Automatic-Plant-Watering-System)
+
+</details>
+
+<details>
+<summary><strong>Temperature Indication System</strong></summary>
+
+Embedded temperature monitoring and indication system.
+
+[View Repository](https://github.com/Naraender-Robotics/temperature-indication-system)
+
+</details>
+
+<details>
+<summary><strong>7-Segment Up Counter</strong></summary>
+
+Digital up-counter implementation using a seven-segment display.
+
+[View Repository](https://github.com/Naraender-Robotics/Upcounter-7segment-project)
+
+</details>
+
+<details>
+<summary><strong>Smart Motor Control System</strong></summary>
+
+Embedded motor-control project integrating sensing and control logic.
+
+[View Repository](https://github.com/Naraender-Robotics/smart-motor-control-system)
+
+</details>
 
 ---
 
