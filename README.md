@@ -6,7 +6,7 @@ Electrical and electronics engineering student building practical systems across
 
 ## Areas of Interest
 
-- **Hardware & PCB Design**: Schematic capture, multi-rail power distribution (+5V, ±12V), through-hole and surface-mount layout, DRC/ERC verification.
+- **Hardware & PCB Design**: Schematic capture, multi-rail power distribution (+5V, +/-12V), through-hole and surface-mount layout, DRC/ERC verification.
 - **Power & Analog Electronics**: Switched-mode DC-DC converters, opto-isolated gate driving, active op-amp signal generation, SPICE modeling.
 - **Embedded Systems & Robotics**: Real-time microcontroller firmware, hardware timer fast PWM, failsafe watchdogs, multi-protocol communication.
 - **Telemetry & Edge Systems**: Synchronized multi-sensor data acquisition, packed binary struct serialization, RF and cellular networking.
@@ -16,11 +16,11 @@ Electrical and electronics engineering student building practical systems across
 
 ## Technical Skills
 
-- **Embedded Systems & Firmware**: STM32 (ARM Cortex-M4 / HAL), ESP32 (Xtensa & RISC-V), ATmega328P, ATtiny85, Hardware Timer Registers (Fast PWM), Interrupt Handling, Failsafe Watchdogs, Arduino CLI
-- **Hardware & Power Electronics**: KiCad (Schematic Capture & PCB Layout), DC-DC Buck Converters, High-Side N-MOSFET Gate Driving (Opto-Coupled), Linear Regulators, Active Op-Amp Circuit Design, SPICE Simulation
-- **Communications & Protocols**: UART, I2C, SPI, 1-Wire, ESP-NOW 2.4 GHz Binary Structs, BLE (NimBLE GAP/GATT), MQTT, WebSockets
-- **Software Systems & Analytics**: TypeScript, Python, C/C++, Node.js, Next.js, React, FastAPI, Flask, SQLite (Foreign Keys) / PostgreSQL DDL, Radix-2 FFT & Signal Analysis
-- **Verification & Tooling**: pytest, Jest / Vitest, Static Analysis, Git / GitHub Version Control
+- **Embedded Systems & Microcontrollers**: STM32 (ARM Cortex-M4 / STM32 HAL), ESP32 (Xtensa & RISC-V), ATmega328P Bare-Metal Timers, Microchip ATtiny85, 16-Bit Timer Fast PWM (ICR1/OCR1A), Hardware Interrupts & Watchdogs, Embedded C/C++, Arduino CLI
+- **Electronics & Hardware Engineering**: KiCad 8 (Schematic Capture & 2-Layer PCB Layout), DC-DC Buck Converters (CCM), Power MOSFET Gate Drivers (Optocoupled TLP350), Multi-Rail Linear Regulation (+5V, +/-12V), Active Op-Amp Circuits (uA741, Wien Bridge), SPICE Simulation, FeCl3 Chemical Etching
+- **Control Systems & Automation**: Closed-Loop Sensor Feedback, Motor & Actuator Control (PWM, L298N H-Bridge), Sensor-Based State Machines, Peripheral Bus Interfacing (I2C, SPI, UART, 1-Wire), ESP-NOW 2.4 GHz Binary Structs, BLE (NimBLE GAP/GATT), Substation SCADA Exposure
+- **Software Systems & Signal Processing**: C99, C++17, Python 3, TypeScript, Node.js (Express), Next.js 14, SQL & Relational Schemas (PostgreSQL, SQLite, Prisma ORM), Radix-2 Cooley-Tukey FFT, Hann Windowing, Rolling Median/MAD Anomaly Detection
+- **Engineering Tools & Verification**: Git & GitHub Version Control, Automated Testing (Jest, pytest), DRC/ERC Design Checking, Static Analysis
 
 ---
 
@@ -29,7 +29,7 @@ Electrical and electronics engineering student building practical systems across
 ### Hardware & Embedded Systems
 
 - **[PCB Design & Manufacturing Engineering](https://github.com/NaraenderHardware/pcb-design-manufacturing-engineering)**  
-  Four KiCad hardware case studies spanning multi-rail linear power distribution (+5V, ±12V), ATtiny85 USB dongle layout, and fabrication checks.
+  Four KiCad hardware case studies spanning multi-rail linear power distribution (+5V, +/-12V), ATtiny85 USB dongle layout, and fabrication checks.
 
 - **[Power Electronics & Analog Circuit Engineering](https://github.com/NaraenderHardware/power-electronics-analog-circuit-engineering)**  
   Discrete 36V-to-18V (24W, 50 kHz) switched-mode buck converter with opto-isolated gate driving and a multi-stage active op-amp function generator.
@@ -52,7 +52,7 @@ Electrical and electronics engineering student building practical systems across
 
 ## Organizations & Links
 
-- **Portfolio Website**: [https://snaraender0937n.github.io/naraender-portfolio/](https://snaraender0937n.github.io/naraender-portfolio/) (Code implemented in repository; GitHub Pages hosting activation pending)
+- **Portfolio Website**: [https://snaraender0937n.github.io/naraender-portfolio/](https://snaraender0937n.github.io/naraender-portfolio/) *(Codebase implemented; awaiting GitHub Pages activation in repository settings)*
 - **Hardware Organization**: [NaraenderHardware](https://github.com/NaraenderHardware)
 - **Software Organization**: [NaraenderSoftware](https://github.com/NaraenderSoftware)
 - **GitHub Profile**: [snaraender0937n](https://github.com/snaraender0937n)
