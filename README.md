@@ -6,21 +6,21 @@ Electrical and electronics engineering student building practical systems across
 
 ## Areas of Interest
 
-- **Hardware & PCB Design**: Schematic capture, multi-rail power distribution, through-hole and SMD layout, chemical etching.
-- **Power & Analog Electronics**: Switched-mode DC-DC converters, active op-amp signal generation, analog circuit simulation.
-- **Embedded Systems & Robotics**: Deterministic microcontroller firmware, multi-protocol communication, motor control, safety watchdogs.
-- **Telemetry & Edge Systems**: Synchronized multi-sensor data acquisition, binary struct serialization, RF networking.
-- **Software & Anomaly Analytics**: Real-time telemetry pipelines, frequency-domain vibration analysis, behavioral risk analytics.
+- **Hardware & PCB Design**: Schematic capture, multi-rail power distribution (+5V, ±12V), through-hole and surface-mount layout, DRC/ERC verification.
+- **Power & Analog Electronics**: Switched-mode DC-DC converters, opto-isolated gate driving, active op-amp signal generation, SPICE modeling.
+- **Embedded Systems & Robotics**: Real-time microcontroller firmware, hardware timer fast PWM, failsafe watchdogs, multi-protocol communication.
+- **Telemetry & Edge Systems**: Synchronized multi-sensor data acquisition, packed binary struct serialization, RF and cellular networking.
+- **Software & Anomaly Analytics**: High-throughput telemetry pipelines, frequency-domain vibration analysis, behavioral risk analytics.
 
 ---
 
 ## Technical Skills
 
-- **Languages**: C, C++, Python, TypeScript, JavaScript, Embedded C
-- **Hardware & EDA**: KiCad, SPICE Simulation, Digital Oscilloscopes, Multimeters, PCB Prototyping
-- **Microcontrollers & Protocols**: STM32, ESP32, ATmega, UART, I2C, SPI, BLE, MQTT, ESP-NOW
-- **Software & Data**: Node.js, Express, React, Next.js, FastAPI, Flask, SQLite, PostgreSQL
-- **Testing & Tools**: Git, GitHub, pytest, Jest / Vitest, Arduino CLI
+- **Embedded Systems & Firmware**: STM32 (ARM Cortex-M4 / HAL), ESP32 (Xtensa & RISC-V), ATmega328P, ATtiny85, Hardware Timer Registers (Fast PWM), Interrupt Handling, Failsafe Watchdogs, Arduino CLI
+- **Hardware & Power Electronics**: KiCad (Schematic Capture & PCB Layout), DC-DC Buck Converters, High-Side N-MOSFET Gate Driving (Opto-Coupled), Linear Regulators, Active Op-Amp Circuit Design, SPICE Simulation
+- **Communications & Protocols**: UART, I2C, SPI, 1-Wire, ESP-NOW 2.4 GHz Binary Structs, BLE (NimBLE GAP/GATT), MQTT, WebSockets
+- **Software Systems & Analytics**: TypeScript, Python, C/C++, Node.js, Next.js, React, FastAPI, Flask, SQLite (Foreign Keys) / PostgreSQL DDL, Radix-2 FFT & Signal Analysis
+- **Verification & Tooling**: pytest, Jest / Vitest, Static Analysis, Git / GitHub Version Control
 
 ---
 
@@ -29,30 +29,30 @@ Electrical and electronics engineering student building practical systems across
 ### Hardware & Embedded Systems
 
 - **[PCB Design & Manufacturing Engineering](https://github.com/NaraenderHardware/pcb-design-manufacturing-engineering)**  
-  Four PCB case studies covering through-hole and surface-mount power supplies, an ATtiny85 USB dongle, and chemical wet etching.
+  Four KiCad hardware case studies spanning multi-rail linear power distribution (+5V, ±12V), ATtiny85 USB dongle layout, and fabrication checks.
 
 - **[Power Electronics & Analog Circuit Engineering](https://github.com/NaraenderHardware/power-electronics-analog-circuit-engineering)**  
-  Design, simulation, and bench characterization of a 36V-to-18V DC-DC buck converter and a multi-waveform op-amp function generator.
+  Discrete 36V-to-18V (24W, 50 kHz) switched-mode buck converter with opto-isolated gate driving and a multi-stage active op-amp function generator.
 
 - **[Embedded Control, Automation & Robotics](https://github.com/NaraenderHardware/embedded-control-automation-robotics)**  
-  Six embedded control implementations covering STM32 motor control, closed-loop irrigation, BLE robotics, and sensor telemetry.
+  Six real-time control implementations including STM32/ESP32 industrial conveyor automation, closed-loop irrigation, and dual-unit BLE robotics.
 
 - **[VitalEdge Embedded Telemetry Monitoring](https://github.com/NaraenderHardware/vitaledge-embedded-telemetry-monitoring)**  
-  Dual-MCU edge telemetry prototype capturing synchronized physiological, environmental, and motion data with cellular LTE/GNSS uplink.
+  Dual-microcontroller edge telemetry architecture (ESP32-C3 / ESP32-S3) integrating 5 sensor streams via 56-byte packed ESP-NOW structs and LTE/GNSS uplink.
 
 ### Software & Analytics
 
 - **[Industrial Fleet Condition Monitoring](https://github.com/NaraenderSoftware/industrial-fleet-condition-monitoring)**  
-  Real-time telemetry processing platform implementing vibration FFT analysis, rolling Median/MAD anomaly detection, and a Next.js console.
+  Distributed telemetry platform executing time-domain vibration metrics, Radix-2 FFT spectral analysis, and rolling Median/MAD anomaly detection.
 
 - **[Behavioral Fraud Detection & Risk Analytics (FraudGuard)](https://github.com/NaraenderSoftware/behavioral-fraud-detection-risk-analytics)**  
-  Multi-layer risk engine evaluating passive behavioral biometrics, device fingerprinting, and signup velocity for zero-payment onboarding.
+  Defensive risk engine combining passive client-side behavioral biometrics, deterministic SHA-256 device fingerprinting, and five-tier graduated decision logic.
 
 ---
 
 ## Organizations & Links
 
-- **Portfolio Website (Intended)**: [https://snaraender0937n.github.io/naraender-portfolio/](https://snaraender0937n.github.io/naraender-portfolio/) (Deployment pending manual publishing)
+- **Portfolio Website**: [https://snaraender0937n.github.io/naraender-portfolio/](https://snaraender0937n.github.io/naraender-portfolio/) (Code implemented in repository; GitHub Pages hosting activation pending)
 - **Hardware Organization**: [NaraenderHardware](https://github.com/NaraenderHardware)
 - **Software Organization**: [NaraenderSoftware](https://github.com/NaraenderSoftware)
 - **GitHub Profile**: [snaraender0937n](https://github.com/snaraender0937n)
