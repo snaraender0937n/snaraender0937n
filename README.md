@@ -52,7 +52,7 @@ Electrical and electronics engineering student building practical systems across
 
 ## Organizations & Links
 
-- **Portfolio Website**: [https://snaraender0937n.github.io/naraender-portfolio/](https://snaraender0937n.github.io/naraender-portfolio/) *(Codebase implemented; awaiting GitHub Pages activation in repository settings)*
+- **Portfolio Website**: [https://snaraender0937n.github.io/naraender-portfolio/](https://snaraender0937n.github.io/naraender-portfolio/)
 - **Hardware Organization**: [NaraenderHardware](https://github.com/NaraenderHardware)
 - **Software Organization**: [NaraenderSoftware](https://github.com/NaraenderSoftware)
 - **GitHub Profile**: [snaraender0937n](https://github.com/snaraender0937n)
