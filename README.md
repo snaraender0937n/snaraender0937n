@@ -1,4 +1,4 @@
-# Naraender S.
+# Naraender S
 
 Electrical and Electronics Engineering (EEE) student interested in electronics, embedded systems, PCB design, and engineering software.
 
